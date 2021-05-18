@@ -1,9 +1,2 @@
 # scores
-
-                                                  
- _ __ ___  _   _ ___  ___  ___  ___ ___  _ __ ___ 
-| '_ ` _ \| | | / __|/ _ \/ __|/ __/ _ \| '__/ _ \
-| | | | | | |_| \__ \  __/\__ \ (_| (_) | | |  __/
-|_| |_| |_|\__,_|___/\___||___/\___\___/|_|  \___|
-                                                  
-
+feel free to check out these handwritten transcripts and some public domain songs.
